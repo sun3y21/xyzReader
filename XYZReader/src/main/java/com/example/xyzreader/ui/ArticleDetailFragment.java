@@ -46,6 +46,7 @@ public class ArticleDetailFragment extends Fragment implements
     private ObservableScrollView mScrollView;
     private DrawInsetsFrameLayout mDrawInsetsFrameLayout;
     private ColorDrawable mStatusBarColorDrawable;
+    String data="";
 
     private int mTopInset;
     private View mPhotoContainerView;
@@ -132,7 +133,7 @@ public class ArticleDetailFragment extends Fragment implements
             public void onClick(View view) {
                 startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(getActivity())
                         .setType("text/plain")
-                        .setText("Some sample text")
+                        .setText(data)
                         .getIntent(), getString(R.string.action_share)));
             }
         });
@@ -196,6 +197,8 @@ public class ArticleDetailFragment extends Fragment implements
                             + mCursor.getString(ArticleLoader.Query.AUTHOR)
                             + "</font>"));
             bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY)));
+            data+=titleView.getText().toString()+" by "+bylineView.getText().toString()+"\n\n";
+            data+=bodyView.getText().toString();
             ImageLoaderHelper.getInstance(getActivity()).getImageLoader()
                     .get(mCursor.getString(ArticleLoader.Query.PHOTO_URL), new ImageLoader.ImageListener() {
                         @Override
