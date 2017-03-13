@@ -2,18 +2,39 @@
 <items version="2" >
 
     <item
+        jar="/Users/Sunnny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-2d08dc3587e9701354a433a04d9afb0c45b2df4e.jar" />
+    </item>
+    <item
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-069f9d8ac53e2439f81e9c3f0e714add61b9172d.jar" />
+    </item>
+    <item
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-39449b3a1104dbb50f0739ba8e0ca8497902058c.jar" />
+    </item>
+    <item
+        jar="/Users/Sunnny/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-d359c52cf9eade12dea058868bcac2fac8f95f47.jar" />
+    </item>
+    <item
         jar="/Users/Sunnny/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
         <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-6ad96bacf21e55da523fa752d7dbc872ea6eb029.jar" />
-    </item>
-    <item
-        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-154cf838cc1b0acf52033baaaf5c9c0a4136c5e7.jar" />
     </item>
     <item
         jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
@@ -23,32 +44,18 @@
         <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-88d987dfe53d467a1ea51d173d72160b46c0dd22.jar" />
     </item>
     <item
-        jar="/Users/Sunnny/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="7052283359001bb108753cb0583a887d3bf94c82">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-2d08dc3587e9701354a433a04d9afb0c45b2df4e.jar" />
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-9a7f026afb36d9ae5e71afcef2b143835aa033d4.jar" />
     </item>
     <item
-        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2ea90b3364acc257a4cbf0499c3483f751c3a429.jar" />
-    </item>
-    <item
-        jar="/Users/Sunnny/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-2ad45fa1a962acf29d8185b57da650e3d2f93a74.jar" />
-    </item>
-    <item
-        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-da15fe508398bb13e18d28055e185a87a090c1ff.jar" />
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-be22b2a84eec679d2c1c61d4d5e24f6ee191e89a.jar" />
     </item>
     <item
         jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
@@ -58,11 +65,11 @@
         <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-04b48fa7e1b7ff3264a538697f4f3dd6d4d608fc.jar" />
     </item>
     <item
-        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-1143ae20a482b9c1723ee419964d614e2e5376ec.jar" />
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f3356bcf99870a427cb5cc48262d5159d9a14550.jar" />
     </item>
     <item
         jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/libs/volley.jar"
@@ -72,11 +79,11 @@
         <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-1aa4656c8c1a44c68bef4337c9677a1966825692.jar" />
     </item>
     <item
-        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-39449b3a1104dbb50f0739ba8e0ca8497902058c.jar" />
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-2301c74e7aaec9223b439749e7b6dfeadd204a2f.jar" />
     </item>
     <item
         jar="/Users/Sunnny/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
